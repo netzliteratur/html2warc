@@ -3,14 +3,14 @@
 html2warc creates warc files from local web resources
 """
 
-__date__ = '2014/12/10'
+__date__ = '2015/09/17'
 __version__ = '0.6'
 __status__ = 'Testing'
 __license__ = 'The MIT License (MIT)'
-__copyright__ = 'Copyright (c) 2014 DLA Marbach'
+__copyright__ = 'Copyright (c) 2014 Steffen Fritz'
 __author__ = 'steffen fritz'
 __maintainer__ = 'steffen fritz'
-__contact__ = 'fritz@dla-marbach.de'
+__contact__ = 'sfnfzs2600@gmail.com'
 
 
 import os
